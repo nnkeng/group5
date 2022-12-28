@@ -3,6 +3,6 @@ resource "aws_instance" "jjtech" {
   instance_type = var.instance_type
 
   tags = {
-    Name = "Alexusv2"
+    Name = "Stefan"
   }
 }
