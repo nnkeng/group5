@@ -4,5 +4,6 @@ resource "aws_instance" "jjtech" {
 
   tags = {
     Name = "Susan"
-  }
+    
+
 }
