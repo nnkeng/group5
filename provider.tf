@@ -1,4 +1,4 @@
 provider "aws" {
-  region = "us-west-2"
+  region = "us-eastgit status-2"
   profile = "default"
 }
