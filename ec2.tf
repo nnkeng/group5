@@ -3,6 +3,7 @@ resource "aws_instance" "jjtech" {
   instance_type = var.instance_type
 
   tags = {
+<
     Name = "Amya55-project"
   }
 }
