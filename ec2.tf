@@ -1,4 +1,4 @@
-resource "aws_instance" "jjtech" {
+resource "aws_instance" "alvine" {
   ami           = var.ami_id
   instance_type = var.instance_type
 
