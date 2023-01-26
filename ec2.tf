@@ -6,3 +6,4 @@ resource "aws_instance" "alvine" {
     Name = "jocelyne"
   }
 }
+Divina 

@@ -1,4 +1,4 @@
 provider "aws" {
-  region = "us-east-2"
+  region = "divina"
   profile = "default"
 }
